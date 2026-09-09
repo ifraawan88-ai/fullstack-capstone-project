@@ -1,0 +1,10 @@
+cURL command:
+
+curl http://localhost:3000/api/gifts
+
+
+Output:
+
+
+[{"id":1,"title":"Study Table","description":"A gently used study table available for free.","category":"Furniture"},{"id":2,"title":"School Bag","description":"A good condition school bag for students.","category":"Education"},{"id":3,"title":"Winter Jacket","description":"Warm winter jacket available for someone in need.","category":"Clothing"}]
+
